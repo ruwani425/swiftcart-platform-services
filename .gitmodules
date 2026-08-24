@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/ruwani425/swiftcart-config-server.git
+[submodule "discovery-server"]
+	path = discovery-server
+	url = https://github.com/ruwani425/swiftcart-discovery-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/ruwani425/swiftcart-api-gateway.git
