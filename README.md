@@ -2,8 +2,8 @@
 
 > **Module**: ITS 2130 - Enterprise Cloud Architecture  
 > **Institution**: Institute of Software Engineering (IJSE)  
-> **Student Name**: Ruwani Ranthika  
-> **Student Number**: HDSE-ECA-2026  
+> **Student Name**: E. V. Ruwani Ranthika  
+> **Student ID**: 241722021  
 > **GCP Project ID**: `swiftcart-eca-project`  
 
 ---
